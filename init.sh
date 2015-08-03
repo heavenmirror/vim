@@ -1,4 +1,4 @@
 #!/bin/env bash
-rm ~/.vimrc
+mv ~/.vimrc ~/.vimrc.bak
 ln ./.vimrc ~/.vimrc
 echo "complete ! Let\`s play !"
