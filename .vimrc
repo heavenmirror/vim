@@ -30,7 +30,7 @@ set timeout timeoutlen=200 ttimeoutlen=100
 set visualbell
 set noerrorbells
 set autowrite
-set mouse=a
+"set mouse=a
 
 
 let mapleader = ","
