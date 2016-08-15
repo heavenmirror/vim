@@ -81,6 +81,7 @@ call vundle#begin()
 
 Plugin 'gmarik/Vundle.vim'
 Plugin 'The-NERD-Tree'
+Plugin 'editorconfig-vim'
 Plugin 'The-NERD-Commenter'
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
